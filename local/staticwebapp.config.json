@@ -8,6 +8,13 @@
       ]
     },
     {
+      "route": "/index.html",
+      "allowedRoles": [
+        "anonymous",
+        "authenticated"
+      ]
+    },
+    {
       "route": "/redirect.html",
       "allowedRoles": [
         "anonymous",
